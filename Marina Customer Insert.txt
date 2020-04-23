@@ -1,0 +1,3 @@
+SQL Statement to add table for Marina DB 
+
+ALTER TABLE Customer ADD UserName VARCHAR(50);

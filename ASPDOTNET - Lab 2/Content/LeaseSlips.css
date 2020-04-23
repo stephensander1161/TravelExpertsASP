@@ -1,0 +1,40 @@
+﻿/*/*
+ * ASP.NET LAB 2
+ * 
+ * Course: CPRG-214
+ * Author: Brian Appleton
+ * Date: Feb 8, 2020
+ * 
+ * Description:
+ * 
+ * styling for lease slips page
+ * 
+ * 
+ */
+.headers {
+    font-weight: bold;
+    font-size: medium;
+}
+.dropDownList {
+    Font-Size: large;
+    font-weight: bold;
+    margin-left: 20px;
+    width: 15rem;
+}
+.gridview {
+    width: 95% !important
+}
+
+.col-container {
+    display: table;
+    width: 100%;
+}
+
+.col {
+    display: table-cell; 
+}
+@media only screen and (max-width: 700px) {
+    .col {
+        display: block;
+        width: 100%;
+    }

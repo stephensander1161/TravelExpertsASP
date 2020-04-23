@@ -1,0 +1,54 @@
+﻿/****
+         * ASP.NET LAB 2
+         * 
+         * Course: CPRG-214
+         * Author: Chris Yamez
+         * Date: 2/08/2020
+         * 
+         * Description:
+         * 
+         * Custom stylesheet for more detailed Alterations
+         *
+         * 
+         ****/
+
+/**** Default ****/
+
+body {
+    background-color: rgb(233,237,239);
+}
+
+/* Buttons */
+.btn btn-primary btn-lg {
+    font-family: "TYPOGRAPH PRO";
+    background-color: rgba(54,132,180,.8);
+}
+
+/* text */
+.txtHead {
+    font-family: "TYPOGRAPH PRO";
+    font-size: large;
+    font-weight: bold;
+}
+
+/* Box Elements */
+.jumbotron {
+}
+
+/* Images */
+
+
+.ads {
+    border-radius: 25px;
+}
+
+.ads:hover
+{
+    cursor: pointer;
+    box-shadow: -18px 14px 24px -6px rgba(0,0,0,0.44);
+    transition: box-shadow 0.6s ease-in-out;
+}
+
+
+/* div */
+/**** Master ****/
